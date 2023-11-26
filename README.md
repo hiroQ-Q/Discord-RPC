@@ -16,6 +16,7 @@
 - Based on QBCore
 - Disocrd activity shows server name, number of servers, startup time
 - Two buttons: one to join the server and the other to join the Discord.
+  
 ![img](https://pbs.twimg.com/media/F_3fFZHaoAAqiJD?format=png&name=360x360)
 
 

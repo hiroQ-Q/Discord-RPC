@@ -19,6 +19,8 @@
   
 ![img](https://pbs.twimg.com/media/F_3fFZHaoAAqiJD?format=png&name=360x360)
 
+##update
+ボタンテキスト変更可能にしました
 
 ## 🔗 Links
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hiroq_q_m)

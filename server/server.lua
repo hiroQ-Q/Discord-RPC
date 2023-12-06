@@ -42,4 +42,3 @@ AddEventHandler('onResourceStop', function(resourceName)
     print()
     print('----------------------------------')
 end)
-  

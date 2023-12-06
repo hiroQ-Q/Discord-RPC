@@ -3,7 +3,7 @@ game {'gta5'}
 
 author 'hiroq_q'
 description 'Discord Rich Presence by hiroq_q'
-version '1.0.0'
+version '1.0.1'
 
 client_scripts{
     'client/*.lua'

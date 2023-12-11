@@ -12,11 +12,11 @@ Citizen.CreateThread(function()
             SetDiscordRichPresenceAction(0, config.content_1_text, config.content_1)
 
             if config.content_2 ~= nil then
-                SetDiscordRichPresenceAction(1, content_2_text, config.content_2)
+                SetDiscordRichPresenceAction(1, config.content_2_text, config.content_2)
             end
         else
             if config.content_2 ~= nil then
-                SetDiscordRichPresenceAction(0, content_2_text, config.content_2)
+                SetDiscordRichPresenceAction(0, config.content_2_text, config.content_2)
             end
         end
 

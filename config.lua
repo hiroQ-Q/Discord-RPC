@@ -7,7 +7,7 @@ config.run = true
 config.max_server = 48
 
 --discord appid
-config.appid = '1173300046838636624'
+config.appid = 'id'
 
 --big icon setup
 config.asset_big_icon = 'server_bigicon'

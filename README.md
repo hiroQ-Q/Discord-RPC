@@ -1,3 +1,4 @@
+## これ使うよりかはQBCOREの設定をおすすめです
 ## Discord Rich Presence - QBcore
 
 
